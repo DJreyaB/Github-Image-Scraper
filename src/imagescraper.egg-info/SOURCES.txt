@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/imagescraper/__init__.py
+src/imagescraper/github_images.py
+src/imagescraper/py.typed
+src/imagescraper.egg-info/PKG-INFO
+src/imagescraper.egg-info/SOURCES.txt
+src/imagescraper.egg-info/dependency_links.txt
+src/imagescraper.egg-info/not-zip-safe
+src/imagescraper.egg-info/requires.txt
+src/imagescraper.egg-info/top_level.txt
